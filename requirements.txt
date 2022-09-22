@@ -1,0 +1,10 @@
+geocoder
+six
+pyfiglet
+colorama
+termcolor
+click
+folium
+webbrowser
+socket
+urllib.request
